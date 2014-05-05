@@ -1,2 +1,7 @@
 [alias]
   stat = status -s
+[user]
+	name = saori.kawauchi
+	email = nikotan.sk@gmail.com
+[color]
+	ui = true
