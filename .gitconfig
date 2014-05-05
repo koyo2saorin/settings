@@ -1,5 +1,5 @@
 [alias]
-  stat = status -s
+  stat = status -s -b
   b    = branch
   g    = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)%d%C(reset) %C(white)%s%C(reset) %C(cyan)- <%an>%C(reset) %C(white reverse)(%ar)%C(reset)' --all
 [user]
